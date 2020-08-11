@@ -2,7 +2,7 @@
   <img src="/screen.png" alt="Screenshot" title="Screenshot">
 </p>
 
-## Versioning
+## INFO
 This is my EFI Folder for Hackintosh for this config :
 -Motherboard : Gigabyte H370-DH3
 -CPU : Intel Core I5-9600k
